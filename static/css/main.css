@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+
+table{
+    width: 100%;
+}
+
+tr{
+    border-bottom: solid 1px #86989B;
+    padding-right: 30px;
+}
+
+.list{
+    margin: auto;
+    width: 80%;
+    margin-bottom: 30px;
+}
