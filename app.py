@@ -2,9 +2,6 @@ from flask import Flask, render_template, request
 import requests
 from bs4 import BeautifulSoup
 from wtforms import Form, StringField, SubmitField
-import re
-import pprint
-import json
 
 app = Flask(__name__)
 
