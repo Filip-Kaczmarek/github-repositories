@@ -1,5 +1,5 @@
 # github-repositories
-This is a web app which allows to search for a github account by username and then displays user's repositories sorted by number of stars.
+This is a web app which allows to search for a github account by username and then displays user's repositories sorted by number of stars. It is built with Python using the Flask framework.
 
 <h2>User guide</h2>
 1. Download this repository<br>
